@@ -1,4 +1,4 @@
-# **👋 Hi, I'm [Krishnayan Kashyap Paathak]**  
+# **👋 Hi, I'm [Krishnayan Kashyap Pathak]**  
 ### **Technical Writer | Robotics & IoT Enthusiast | Documentation Specialist | researcher **  
 
 🚀 Passionate about translating complex **robotics** and **IoT** concepts into clear, concise, and engaging technical content.
